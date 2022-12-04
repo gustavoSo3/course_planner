@@ -1,0 +1,27 @@
+[
+	{
+		"id": "Lorem",
+		"course": "Lorem",
+		"area": "Lorem",
+		"department": "Lorem",
+		"credits": 0,
+		"hrs_per_week": 0,
+		"description": "Lorem ipsum",
+		"groups": [
+			{
+				"profesor": "John",
+				"id": "DOE000",
+				"sesions": [
+					{
+						"room": "Lorem",
+						"schedule": {
+							"day": "Monday",
+							"start": "0700",
+							"ends": "0900"
+						}
+					}
+				]
+			}
+		]
+	}
+]
