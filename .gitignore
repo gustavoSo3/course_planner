@@ -1,5 +1,11 @@
+//OS Files
 .DS_Store
+
+//VsCode files
 .vscode
-data/**
+
+//Git stuff
 !**.gitkeep
-venv
+
+//More stuff
+data/**

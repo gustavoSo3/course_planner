@@ -1,3 +1,7 @@
+function getCoursesDataObject(base_table_element) {
+
+}
+
 let data_table = document.getElementsByTagName("table")[0];
 
 let tbody = data_table.children[1];
